@@ -1,0 +1,6 @@
+{
+  "name": "AuthShield",
+  "description": "Full-Stack Security Authentication System with JWT, HTTP-Only Cookies, MongoDB & Role-Based Access Control",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
