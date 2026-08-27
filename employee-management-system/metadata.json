@@ -1,0 +1,6 @@
+{
+  "name": "Employee Management System",
+  "description": "Production-ready full-stack Admin Dashboard for managing employee records, authentication, department analytics, and CRUD operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
